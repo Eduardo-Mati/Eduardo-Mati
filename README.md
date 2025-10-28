@@ -49,7 +49,7 @@ Aqui estão alguns dos projetos que destacam minhas habilidades e paixões:
 
 Estou sempre aberto a novas conexões, discussões sobre tecnologia e oportunidades de colaboração. Sinta-se à vontade para entrar em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/eduardo-matias-de-oliveira-eufrasio-721b23301])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-matias-de-oliveira-eufrasio-721b23301)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardo.eufrasio@maisunifacisa.com.br)
 
 ---
