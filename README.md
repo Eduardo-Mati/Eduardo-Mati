@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Eduardo Matias
 
-### Desenvolvedor de Software | Entusiasta de Machine Learning | Aprendiz Contínuo
+### Desenvolvedor de Software | Entusiasta de Machine Learning | Aprendiz Contínuo | Auxiliar aprendiz do fyzz-tech
 
 Sou um desenvolvedor apaixonado por tecnologia e focado em transformar ideias em soluções funcionais. Minha jornada na programação me levou a explorar desde o desenvolvimento robusto de sistemas em **Java** até a criação de interfaces de usuário dinâmicas com **React**. Tenho um grande interesse e experiência prática em **Ciência de Dados** e **Machine Learning**, utilizando **Python** e **Jupyter Notebook** para construir e analisar modelos preditivos.
 
