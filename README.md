@@ -36,12 +36,28 @@ Aqui estão alguns dos projetos que destacam minhas habilidades e paixões:
 
 ---
 
-## 📊 Estatísticas do GitHub
+# Olá, eu sou o Eduardo! 👋
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Mati&layout=compact&langs_count=7&theme=dracula" />
-   <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Mati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+### 🛠 Tecnologias e Linguagens
+Aqui estão as tecnologias que utilizo nos meus projetos:
+
+![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,react,html,css,mysql,mongodb,git,github)
+
+---
+
+### 📊 Estatísticas de Desenvolvimento
+*Este gráfico mostra as linguagens mais presentes nos meus repositórios públicos:*
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo-Mati&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
+
+---
+
+### 🚀 Sobre mim
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2025-2027)
+- 💻 Técnico em Informática
+- 🎯 Focado em aprender cada vez mais sobre desenvolvimento de software.
 
 ---
 
