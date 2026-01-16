@@ -36,8 +36,6 @@ Aqui estão alguns dos projetos que destacam minhas habilidades e paixões:
 
 ---
 
-# Olá, eu sou o Eduardo! 👋
-
 ### 🛠 Tecnologias e Linguagens
 Aqui estão as tecnologias que utilizo nos meus projetos:
 
