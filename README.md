@@ -29,10 +29,6 @@ Aqui estão alguns dos projetos que destacam minhas habilidades e paixões:
     * Um conjunto de modelos e análises de Machine Learning desenvolvidos em Jupyter Notebook, mostrando minha capacidade de aplicar algoritmos para resolver problemas.
 * **[2-Entrega-JAVA-versao-final](https://github.com/Eduardo-Mati/2-Entrega-JAVA-versao-final)**
     * Exemplo prático de desenvolvimento de sistemas utilizando Java, demonstrando minhas habilidades em lógica de programação e arquitetura de software.
-* **[Projeto-BOOKHUB](https://github.com/Eduardo-Mati/Projeto-BOOKHUB)**(ainda no inicio)
-    * Um projeto que explora a construção de uma aplicação, possivelmente envolvendo gerenciamento de dados e interação do usuário, com foco em uma plataforma para livros.
-* **[React](https://github.com/Eduardo-Mati/React)**
-    * Repositório dedicado ao desenvolvimento front-end com React, showcasing my ability to build modern, responsive user interfaces.
 
 ---
 
