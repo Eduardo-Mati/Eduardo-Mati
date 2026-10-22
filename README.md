@@ -23,17 +23,6 @@ Aqui estão algumas das tecnologias e linguagens que utilizo:
 
 ---
 
-## ✨ Projetos Relevantes
-
-Aqui estão alguns dos projetos que destacam minhas habilidades e paixões:
-
-* **[Projetos Integradores - Modelos de Machine Learning (Desafio Unifacisa)](https://github.com/Eduardo-Mati/Projetos-integrador---Desafio-unifacisa---Modelos-de-Machine-Learning)**
-    * Um conjunto de modelos e análises de Machine Learning desenvolvidos em Jupyter Notebook, mostrando minha capacidade de aplicar algoritmos para resolver problemas.
-* **[2-Entrega-JAVA-versao-final](https://github.com/Eduardo-Mati/2-Entrega-JAVA-versao-final)**
-    * Exemplo prático de desenvolvimento de sistemas utilizando Java, demonstrando minhas habilidades em lógica de programação e arquitetura de software.
-
----
-
 ### 🛠 Tecnologias e Linguagens
 Aqui estão as tecnologias que utilizo nos meus projetos:
 
